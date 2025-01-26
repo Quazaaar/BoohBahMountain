@@ -1,4 +1,3 @@
-package BoohBahMountain;
 import UI.GameUI;
 
 class Main{
@@ -7,5 +6,5 @@ class Main{
         GameUI GUI = new GameUI();
         GUI.start();
     }
-    
+    //testing
 }
