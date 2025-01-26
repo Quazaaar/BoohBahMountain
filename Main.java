@@ -1,4 +1,3 @@
-package BoohBahMountain;
 import UI.GameUI;
 
 class Main{
